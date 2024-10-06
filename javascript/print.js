@@ -35,6 +35,6 @@ submitButton.addEventListener('click', (e) => {
 
   // Print receipt
   window.print();
-  window.location.href="home.html";
+  window.location.href="index.html";
 });
 
