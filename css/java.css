@@ -1,0 +1,36 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h3
+{
+    color: black;
+}
+.word-border
+    {
+        text-transform: uppercase;
+        -webkit-text-fill-color:whitesmoke ;
+        -webkit-text-stroke-width:1px ; 
+        }
+.btn
+{
+    /* margin-left: 20px; */
+    background-color:#0fc8a3f6;
+    color: #fff;
+}
+
+.heading {
+    /* background-color: #f1eeee; */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /* width: ; */
+  }
+  footer
+  {
+    width: 1200px;
+    /* margin-left: -1000px; */
+  }
+  

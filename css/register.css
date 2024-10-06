@@ -1,0 +1,41 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+p
+{
+    font-size: 20px;
+    color:#333;
+}
+.form
+{
+    background-color:#06e2b6f6;
+    color:#fff;
+}
+
+
+.copyright {
+    padding: 25px 0;
+    font-size: 15px;
+    border-top: 2px solid rgba(256, 256, 256, 0.1);
+    background-color: #333;
+    }
+  
+  .copyright a {
+    color: #fea116;
+    text-decoration: none;
+  }
+  
+  .footer-menu a {
+    margin-right: 15px;
+    padding-right: 15px;
+    border-right: 1px solid rgba(255, 255, 255, .3);
+    color: white;
+  }
+  .btn
+  {
+    background-color: #333;
+  }
+  
